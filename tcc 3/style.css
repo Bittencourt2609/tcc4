@@ -1,0 +1,28 @@
+
+body{
+background-color:  #a1afba;
+}
+
+@media(max-width:768px) {
+.main-header {
+width: 100%;
+}
+}
+
+h1{
+text-align: center;
+
+}
+
+p{
+text-align: center;
+}
+
+.container2{
+text-align: center;
+}
+.all {
+    border: 2px solid white;
+    background: white;
+    color: black;
+}
